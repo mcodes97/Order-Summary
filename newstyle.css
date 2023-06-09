@@ -169,7 +169,7 @@ footer{
 }
 
 @media screen and (max-width: 500px){
-    body, .full, .img{
+    body, .full, .img, .change, more{
         width: 100%;
     }
 }
