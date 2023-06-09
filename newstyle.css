@@ -10,7 +10,7 @@ body{
     font-size: 1.2rem;
     margin: 10px auto;
 
-    width: 400px;
+    max-width: 400px;
     height: 100px;
    
     background-image: url(pattern-background-desktop.svg);
@@ -27,7 +27,7 @@ body{
 }
 
 .img{
-    width: 400px;
+    max-width: 400px;
     height: 200px;
     margin-bottom: 1.2rem;
     border-radius: 5%;
