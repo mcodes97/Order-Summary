@@ -168,7 +168,7 @@ footer{
     font-size: .9rem;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 500px){
     body, .full, .img{
         width: 100%;
     }
