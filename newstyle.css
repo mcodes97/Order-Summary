@@ -168,14 +168,11 @@ footer{
     font-size: .9rem;
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 600px){
     body, .full, .img, more{
         width: 100%;
     }
     .more, num-light{
         margin: 0.4rem 6rem 0 1rem;
-    }
-    .change{
-        margin: 8rem 2rem 2rem 0;
     }
 }
